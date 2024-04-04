@@ -2,7 +2,7 @@ import openai
 import time
 
 # Set your OpenAI API key
-api_key = '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'
+api_key = 
 openai.api_key = api_key
 
 def send_message(message):
